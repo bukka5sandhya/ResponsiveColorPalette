@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+.main-heading{
+    font-family:"Roboto";
+    font-size:30px;
+    color:black;
+    text-align: center;
+    font-weight:bold;
+    padding:10px;
+}
+.primary-text{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size:20px;
+    padding:10px;
+}
