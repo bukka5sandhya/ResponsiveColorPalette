@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+.main-heading{
+    font-family: "Roboto";
+    font-size:30px;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+}
+.responsive-color-box{
+    padding:20px;
+}
+.box-text{
+    color:white;
+    font-family: "Roboto";
+    font-size:30px;
+    font-weight:bold;
+    text-align: center;
+}
